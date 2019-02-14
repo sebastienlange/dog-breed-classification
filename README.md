@@ -9,7 +9,7 @@
 
 In this project, I build a __Convolutional Neural Networks (CNN) to classify dogs among 133 breeds with 89% accuracy__. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
-The code is written in Python 3 and PyTorch all presented in Jupyter Notebook.
+The code is written in Python 3 and PyTorch all presented in this Jupyter Notebook: [dog_app.ipynb](dog_app.ipynb).
 
 ![Sample Output][image1]
 
